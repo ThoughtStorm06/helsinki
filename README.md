@@ -2,4 +2,4 @@
 Exercise questions solutions
 
 ## Part0
-### [part0.md](Exercise-1)
+[Exercise-1](part0.md)
